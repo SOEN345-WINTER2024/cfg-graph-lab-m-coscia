@@ -2,8 +2,32 @@
 Name: Megan Coscia <br>
 Student ID: 40214186
 
-## Step 1
-![CFG for Calculator App](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-m-coscia/assets/95299392/463f7df6-bb93-45f1-bc6f-cd135b9ff9db)
+## Step 1 - CFG Graph
+![CFG for Calculator App](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-m-coscia/assets/95299392/28796be1-9c79-4c17-af67-eb8bf8090df4)
+
+## Step 2 - Node Coverage
+- TR: { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 }
+- Test Paths: <br>
+[1, 2, 22] <br>
+[1, 3, 22] <br>
+[1, 4, 22] <br>
+[1, 5, 22] <br>
+[1, 6, 22] <br>
+[1, 7, 22] <br>
+[1, 8, 22] <br>
+[1, 9, 22] <br>
+[1, 10, 22] <br>
+[1, 11, 22] <br>
+[1, 12, 22] <br>
+[1, 13, 22] <br>
+[1, 14, 22] <br>
+[1, 15, 22] <br>
+[1, 16, 17, 18, 22] <br>
+[1, 16, 17, 19, 22] <br>
+[1, 16, 17, 20, 22] <br>
+[1, 16, 17, 21, 22] <br>
+
+
 
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
