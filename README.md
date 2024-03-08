@@ -1,4 +1,10 @@
-# Soot Tutorial
+# CFG Lab
+Name: Megan Coscia <br>
+Student ID: 40214186
+
+## Step 1
+![CFG for Calculator App](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-m-coscia/assets/95299392/463f7df6-bb93-45f1-bc6f-cd135b9ff9db)
+
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
 [![Docker Pull](https://img.shields.io/docker/pulls/noidsirius/soot_tutorial)](https://hub.docker.com/r/noidsirius/soot_tutorial)
